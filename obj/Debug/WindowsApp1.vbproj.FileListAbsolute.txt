@@ -1,0 +1,797 @@
+C:\Users\Aluno\Desktop\jorgao\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\Aluno\Desktop\jorgao\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\Aluno\Desktop\jorgao\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\Aluno\Desktop\jorgao\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\Aluno\Desktop\jorgao\WindowsApp1\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\jorgao\WindowsApp1\obj\Debug\WindowsApp1.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\jorgao\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\Aluno\Desktop\jorgao\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Aluno\Desktop\jorgao\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\jorgao\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\jorgao\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\Aluno\Desktop\jorgao\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\Aluno\Desktop\jorgao\WindowsApp1\obj\Debug\WindowsApp1.pdb
+E:\Sistema_Gestao(PRINICIPAL)\bin\Debug\WindowsApp1.exe.config
+E:\Sistema_Gestao(PRINICIPAL)\bin\Debug\WindowsApp1.exe
+E:\Sistema_Gestao(PRINICIPAL)\bin\Debug\WindowsApp1.pdb
+E:\Sistema_Gestao(PRINICIPAL)\bin\Debug\WindowsApp1.xml
+E:\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+E:\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsApp1.Resources.resources
+E:\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+E:\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+E:\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsApp1.exe
+E:\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsApp1.xml
+E:\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsApp1.pdb
+E:\Sistema_Gestao(PRINICIPAL)\bin\Debug\FontAwesome.Sharp.dll
+E:\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsApp1.Menu_func.resources
+E:\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsA.0BF81A2F.Up2Date
+E:\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsApp1.Menu_admin.resources
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsApp1.Login.resources
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsApp1.Menu_admin.resources
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsApp1.Menu_func.resources
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL)\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsA.0BF81A2F.Up2Date
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsApp1.exe
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsApp1.xml
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsApp1.pdb
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL)\bin\Debug\WindowsApp1.exe.config
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL)\bin\Debug\WindowsApp1.exe
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL)\bin\Debug\WindowsApp1.pdb
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL)\bin\Debug\WindowsApp1.xml
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL)\bin\Debug\LiveCharts.dll
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL)\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL)\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL)\bin\Debug\LiveCharts.pdb
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL)\bin\Debug\LiveCharts.xml
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL)\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL)\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL)\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL)\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL)\bin\Debug\MetroFramework.Design.dll
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL)\bin\Debug\MetroFramework.dll
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL)\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsApp1.Produtos.resources
+C:\Users\Aluno\Desktop\Sistema_Gestao(PRINICIPAL)\bin\Debug\WindowsApp1.exe.config
+C:\Users\Aluno\Desktop\Sistema_Gestao(PRINICIPAL)\bin\Debug\WindowsApp1.exe
+C:\Users\Aluno\Desktop\Sistema_Gestao(PRINICIPAL)\bin\Debug\WindowsApp1.pdb
+C:\Users\Aluno\Desktop\Sistema_Gestao(PRINICIPAL)\bin\Debug\WindowsApp1.xml
+C:\Users\Aluno\Desktop\Sistema_Gestao(PRINICIPAL)\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Aluno\Desktop\Sistema_Gestao(PRINICIPAL)\bin\Debug\LiveCharts.dll
+C:\Users\Aluno\Desktop\Sistema_Gestao(PRINICIPAL)\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Aluno\Desktop\Sistema_Gestao(PRINICIPAL)\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Aluno\Desktop\Sistema_Gestao(PRINICIPAL)\bin\Debug\MetroFramework.Design.dll
+C:\Users\Aluno\Desktop\Sistema_Gestao(PRINICIPAL)\bin\Debug\MetroFramework.dll
+C:\Users\Aluno\Desktop\Sistema_Gestao(PRINICIPAL)\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Aluno\Desktop\Sistema_Gestao(PRINICIPAL)\bin\Debug\LiveCharts.pdb
+C:\Users\Aluno\Desktop\Sistema_Gestao(PRINICIPAL)\bin\Debug\LiveCharts.xml
+C:\Users\Aluno\Desktop\Sistema_Gestao(PRINICIPAL)\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Aluno\Desktop\Sistema_Gestao(PRINICIPAL)\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Aluno\Desktop\Sistema_Gestao(PRINICIPAL)\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Aluno\Desktop\Sistema_Gestao(PRINICIPAL)\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Aluno\Desktop\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsApp1.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsApp1.Login.resources
+C:\Users\Aluno\Desktop\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsApp1.Menu_admin.resources
+C:\Users\Aluno\Desktop\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsApp1.Menu_func.resources
+C:\Users\Aluno\Desktop\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Aluno\Desktop\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsApp1.vbproj.CopyComplete
+C:\Users\Aluno\Desktop\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsApp1.exe
+C:\Users\Aluno\Desktop\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsApp1.xml
+C:\Users\Aluno\Desktop\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsApp1.pdb
+C:\Users\Aluno\Desktop\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsApp1.estoque.resources
+C:\Users\Aluno\Desktop\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsApp1.Home.resources
+E:\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsApp1.estoque.resources
+E:\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsApp1.Home.resources
+E:\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsApp1.Login.resources
+E:\Sistema_Gestao(PRINICIPAL)\bin\Debug\LiveCharts.dll
+E:\Sistema_Gestao(PRINICIPAL)\bin\Debug\LiveCharts.WinForms.dll
+E:\Sistema_Gestao(PRINICIPAL)\bin\Debug\LiveCharts.Wpf.dll
+E:\Sistema_Gestao(PRINICIPAL)\bin\Debug\MetroFramework.Design.dll
+E:\Sistema_Gestao(PRINICIPAL)\bin\Debug\MetroFramework.dll
+E:\Sistema_Gestao(PRINICIPAL)\bin\Debug\MetroFramework.Fonts.dll
+E:\Sistema_Gestao(PRINICIPAL)\bin\Debug\LiveCharts.pdb
+E:\Sistema_Gestao(PRINICIPAL)\bin\Debug\LiveCharts.xml
+E:\Sistema_Gestao(PRINICIPAL)\bin\Debug\LiveCharts.WinForms.pdb
+E:\Sistema_Gestao(PRINICIPAL)\bin\Debug\LiveCharts.WinForms.xml
+E:\Sistema_Gestao(PRINICIPAL)\bin\Debug\LiveCharts.Wpf.pdb
+E:\Sistema_Gestao(PRINICIPAL)\bin\Debug\LiveCharts.Wpf.xml
+E:\Sistema_Gestao(PRINICIPAL)\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Sistema_Gestao(PRINICIPAL)\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Sistema_Gestao(PRINICIPAL)\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Sistema_Gestao(PRINICIPAL)\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Sistema_Gestao(PRINICIPAL)\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsApp1.email.resources
+E:\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsApp1.escrever.resources
+E:\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsApp1.Relatorio.resources
+D:\Sistema_Gestao(PRINICIPAL)\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Sistema_Gestao(PRINICIPAL)\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Sistema_Gestao(PRINICIPAL)\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Sistema_Gestao(PRINICIPAL)\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Sistema_Gestao(PRINICIPAL)\bin\Debug\WindowsApp1.exe.config
+D:\Sistema_Gestao(PRINICIPAL)\bin\Debug\WindowsApp1.exe
+D:\Sistema_Gestao(PRINICIPAL)\bin\Debug\WindowsApp1.pdb
+D:\Sistema_Gestao(PRINICIPAL)\bin\Debug\WindowsApp1.xml
+D:\Sistema_Gestao(PRINICIPAL)\bin\Debug\FontAwesome.Sharp.dll
+D:\Sistema_Gestao(PRINICIPAL)\bin\Debug\LiveCharts.dll
+D:\Sistema_Gestao(PRINICIPAL)\bin\Debug\LiveCharts.WinForms.dll
+D:\Sistema_Gestao(PRINICIPAL)\bin\Debug\LiveCharts.Wpf.dll
+D:\Sistema_Gestao(PRINICIPAL)\bin\Debug\MetroFramework.Design.dll
+D:\Sistema_Gestao(PRINICIPAL)\bin\Debug\MetroFramework.dll
+D:\Sistema_Gestao(PRINICIPAL)\bin\Debug\MetroFramework.Fonts.dll
+D:\Sistema_Gestao(PRINICIPAL)\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Sistema_Gestao(PRINICIPAL)\bin\Debug\LiveCharts.pdb
+D:\Sistema_Gestao(PRINICIPAL)\bin\Debug\LiveCharts.xml
+D:\Sistema_Gestao(PRINICIPAL)\bin\Debug\LiveCharts.WinForms.pdb
+D:\Sistema_Gestao(PRINICIPAL)\bin\Debug\LiveCharts.WinForms.xml
+D:\Sistema_Gestao(PRINICIPAL)\bin\Debug\LiveCharts.Wpf.pdb
+D:\Sistema_Gestao(PRINICIPAL)\bin\Debug\LiveCharts.Wpf.xml
+D:\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+D:\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsApp1.vbproj.SuggestedBindingRedirects.cache
+D:\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsApp1.escrever.resources
+D:\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsApp1.estoque.resources
+D:\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsApp1.Home.resources
+D:\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsApp1.Login.resources
+D:\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsApp1.Menu_admin.resources
+D:\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsApp1.Menu_func.resources
+D:\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsApp1.Resources.resources
+D:\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsApp1.Relatorio.resources
+D:\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+D:\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+D:\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsApp1.vbproj.CopyComplete
+D:\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsApp1.exe
+D:\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsApp1.xml
+D:\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsApp1.pdb
+D:\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsApp1.Compras.resources
+D:\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsApp1.CadastroFunc.resources
+D:\Sistema_Gestao(PRINICIPAL)\obj\Debug\WindowsApp1.Pedidos.resources
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL).2\obj\Debug\Interop.ADODB.dll
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.vbproj.ResolveComReference.cache
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.CadastroFunc.resources
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.escrever.resources
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.Home.resources
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.Login.resources
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.Menu_admin.resources
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.Menu_func.resources
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.Pedidos.resources
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.RegistrarVendas.resources
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.Registrar_estoque.resources
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.Relatorio.resources
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL).2\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL).2\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL).2\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL).2\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL).2\bin\Debug\Database1.mdf
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL).2\bin\Debug\Database1_log.ldf
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL).2\bin\Debug\Sistem_gestao1.mdb.accdb
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL).2\bin\Debug\WindowsApp1.exe.config
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL).2\bin\Debug\WindowsApp1.exe
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL).2\bin\Debug\WindowsApp1.pdb
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL).2\bin\Debug\WindowsApp1.xml
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL).2\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL).2\bin\Debug\LiveCharts.dll
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL).2\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL).2\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL).2\bin\Debug\MetroFramework.Design.dll
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL).2\bin\Debug\MetroFramework.dll
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL).2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL).2\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL).2\bin\Debug\LiveCharts.pdb
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL).2\bin\Debug\LiveCharts.xml
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL).2\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL).2\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL).2\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL).2\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsA.0BF81A2F.Up2Date
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.exe
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.xml
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.pdb
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.btn_Fornecedor.resources
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.Estoque.resources
+C:\Users\vitin\OneDrive\Ambiente de Trabalho\Fatec\2 semestre\sistema de informacao\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.RegistrarFornecedor.resources
+E:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\bin\Debug\Database1.mdf
+E:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\bin\Debug\Database1_log.ldf
+E:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\bin\Debug\Sistem_gestao1.mdb.accdb
+E:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\bin\Debug\WindowsApp1.exe.config
+E:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\bin\Debug\WindowsApp1.exe
+E:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\bin\Debug\WindowsApp1.pdb
+E:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\bin\Debug\WindowsApp1.xml
+E:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\bin\Debug\FontAwesome.Sharp.dll
+E:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\bin\Debug\LiveCharts.dll
+E:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\bin\Debug\LiveCharts.WinForms.dll
+E:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\bin\Debug\LiveCharts.Wpf.dll
+E:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\bin\Debug\MetroFramework.Design.dll
+E:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\bin\Debug\MetroFramework.dll
+E:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\bin\Debug\MetroFramework.Fonts.dll
+E:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\bin\Debug\LiveCharts.pdb
+E:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\bin\Debug\LiveCharts.xml
+E:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\bin\Debug\LiveCharts.WinForms.pdb
+E:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\bin\Debug\LiveCharts.WinForms.xml
+E:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\bin\Debug\LiveCharts.Wpf.pdb
+E:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\bin\Debug\LiveCharts.Wpf.xml
+E:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+E:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\obj\Debug\Interop.ADODB.dll
+E:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.vbproj.ResolveComReference.cache
+E:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.CadastroFunc.resources
+E:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.btn_Fornecedor.resources
+E:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.escrever.resources
+E:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.Estoque.resources
+E:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.Home.resources
+E:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.Login.resources
+E:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.Menu_admin.resources
+E:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.Menu_func.resources
+E:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.Resources.resources
+E:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.Pedidos.resources
+E:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.RegistrarFornecedor.resources
+E:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.RegistrarVendas.resources
+E:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.Registrar_estoque.resources
+E:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.Relatorio.resources
+E:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+E:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+E:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsA.0BF81A2F.Up2Date
+E:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.exe
+E:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.xml
+E:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.pdb
+D:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\bin\Debug\Database1.mdf
+D:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\bin\Debug\Database1_log.ldf
+D:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\bin\Debug\Sistem_gestao1.mdb.accdb
+D:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\bin\Debug\WindowsApp1.exe.config
+D:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\bin\Debug\WindowsApp1.exe
+D:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\bin\Debug\WindowsApp1.pdb
+D:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\bin\Debug\WindowsApp1.xml
+D:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\bin\Debug\FontAwesome.Sharp.dll
+D:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\bin\Debug\LiveCharts.dll
+D:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\bin\Debug\LiveCharts.WinForms.dll
+D:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\bin\Debug\LiveCharts.Wpf.dll
+D:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\bin\Debug\MetroFramework.Design.dll
+D:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\bin\Debug\MetroFramework.dll
+D:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\bin\Debug\MetroFramework.Fonts.dll
+D:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\bin\Debug\LiveCharts.pdb
+D:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\bin\Debug\LiveCharts.xml
+D:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\bin\Debug\LiveCharts.WinForms.pdb
+D:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\bin\Debug\LiveCharts.WinForms.xml
+D:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\bin\Debug\LiveCharts.Wpf.pdb
+D:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\bin\Debug\LiveCharts.Wpf.xml
+D:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+D:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.vbproj.SuggestedBindingRedirects.cache
+D:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\obj\Debug\Interop.ADODB.dll
+D:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.vbproj.ResolveComReference.cache
+D:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.CadastroFunc.resources
+D:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.btn_Fornecedor.resources
+D:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.escrever.resources
+D:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.Estoque.resources
+D:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.Home.resources
+D:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.Login.resources
+D:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.Menu_admin.resources
+D:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.Menu_func.resources
+D:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.Resources.resources
+D:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.Pedidos.resources
+D:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.RegistrarFornecedor.resources
+D:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.RegistrarVendas.resources
+D:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.Registrar_estoque.resources
+D:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.Relatorio.resources
+D:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+D:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+D:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.vbproj.CopyComplete
+D:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.exe
+D:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.xml
+D:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.pdb
+E:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.EsqueciSenha.resources
+E:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.Funcionarios.resources
+E:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.FormProdutos.resources
+E:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.FormOrdens.resources
+D:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.EsqueciSenha.resources
+D:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.FormOrdens.resources
+D:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.FormProdutos.resources
+D:\Adilson works\asas\Sistema_Gestao(PRINICIPAL).2\obj\Debug\WindowsApp1.Funcionarios.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\Database1.mdf
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\Database1_log.ldf
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\Sistem_gestao1.mdb.accdb
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\WindowsApp1.exe.config
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\WindowsApp1.exe
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\WindowsApp1.pdb
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\WindowsApp1.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\FontAwesome.Sharp.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\LiveCharts.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\LiveCharts.WinForms.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\LiveCharts.Wpf.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\MetroFramework.Design.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\MetroFramework.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\MetroFramework.Fonts.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\LiveCharts.pdb
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\LiveCharts.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\LiveCharts.WinForms.pdb
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\LiveCharts.WinForms.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\LiveCharts.Wpf.pdb
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\LiveCharts.Wpf.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\obj\Debug\Interop.ADODB.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\obj\Debug\WindowsApp1.vbproj.ResolveComReference.cache
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\obj\Debug\WindowsApp1.CadastroFunc.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\obj\Debug\WindowsApp1.EsqueciSenha.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\obj\Debug\WindowsApp1.FormOrdens.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\obj\Debug\WindowsApp1.FormProdutos.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\obj\Debug\WindowsApp1.btn_Fornecedor.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\obj\Debug\WindowsApp1.escrever.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\obj\Debug\WindowsApp1.Estoque.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\obj\Debug\WindowsApp1.Funcionarios.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\obj\Debug\WindowsApp1.Home.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\obj\Debug\WindowsApp1.Login.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\obj\Debug\WindowsApp1.Menu_admin.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\obj\Debug\WindowsApp1.Menu_func.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\obj\Debug\WindowsApp1.Resources.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\obj\Debug\WindowsApp1.Pedidos.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\obj\Debug\WindowsApp1.RegistrarFornecedor.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\obj\Debug\WindowsApp1.RegistrarVendas.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\obj\Debug\WindowsApp1.Registrar_estoque.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\obj\Debug\WindowsApp1.Relatorio.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\obj\Debug\WindowsA.0BF81A2F.Up2Date
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\obj\Debug\WindowsApp1.exe
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\obj\Debug\WindowsApp1.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\obj\Debug\WindowsApp1.pdb
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\obj\Debug\WindowsApp1.__.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\obj\Debug\WindowsApp1.EditEstok.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\x64\pdfium.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\x86\pdfium.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\BouncyCastle.Crypto.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\itext.barcodes.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\itext.commons.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\itext.font_asian.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\itext.forms.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\itext.io.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\itext.kernel.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\itext.layout.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\itext.licensing.base.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\itext.pdf2data.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\itext.pdfa.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\itext.sign.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\itext.styledxmlparser.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\itext.svg.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\Microsoft.Extensions.Options.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\Newtonsoft.Json.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\PdfiumViewer.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\System.Buffers.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\System.Memory.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\System.Numerics.Vectors.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\System.ValueTuple.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\zxing.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\zxing.presentation.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\BouncyCastle.Crypto.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\itext.barcodes.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\itext.commons.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\itext.font_asian.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\itext.forms.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\itext.io.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\itext.kernel.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\itext.layout.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\itext.licensing.base.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\itext.pdf2data.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\itext.pdfa.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\itext.sign.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\itext.styledxmlparser.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\itext.svg.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\Microsoft.Extensions.Options.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\Newtonsoft.Json.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\PdfiumViewer.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\System.Buffers.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\System.Memory.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\System.Numerics.Vectors.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\System.ValueTuple.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\zxing.pdb
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\zxing.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\zxing.presentation.pdb
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\zxing.presentation.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).3\bin\Debug\nl\PdfiumViewer.resources.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\obj\Debug\Interop.ADODB.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\obj\Debug\WindowsApp1.vbproj.ResolveComReference.cache
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\obj\Debug\WindowsApp1.__.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\obj\Debug\WindowsApp1.CadastroFunc.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\obj\Debug\WindowsApp1.EditEstok.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\obj\Debug\WindowsApp1.EsqueciSenha.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\obj\Debug\WindowsApp1.FormOrdens.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\obj\Debug\WindowsApp1.FormProdutos.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\obj\Debug\WindowsApp1.btn_Fornecedor.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\obj\Debug\WindowsApp1.escrever.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\obj\Debug\WindowsApp1.Estoque.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\obj\Debug\WindowsApp1.Funcionarios.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\obj\Debug\WindowsApp1.Home.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\obj\Debug\WindowsApp1.Login.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\obj\Debug\WindowsApp1.Menu_admin.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\obj\Debug\WindowsApp1.Menu_func.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\obj\Debug\WindowsApp1.Resources.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\obj\Debug\WindowsApp1.Pedidos.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\obj\Debug\WindowsApp1.RegistrarFornecedor.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\obj\Debug\WindowsApp1.RegistrarVendas.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\obj\Debug\WindowsApp1.Registrar_estoque.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\obj\Debug\WindowsApp1.Relatorio.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\obj\Debug\WindowsApp1.exe
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\obj\Debug\WindowsApp1.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\obj\Debug\WindowsApp1.pdb
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\x64\pdfium.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\x86\pdfium.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\Database1.mdf
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\Database1_log.ldf
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\Sistem_gestao1.mdb.accdb
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\WindowsApp1.exe.config
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\WindowsApp1.exe
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\WindowsApp1.pdb
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\WindowsApp1.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\BouncyCastle.Crypto.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\FontAwesome.Sharp.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\itext.barcodes.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\itext.commons.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\itext.font_asian.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\itext.forms.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\itext.io.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\itext.kernel.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\itext.layout.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\itext.licensing.base.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\itext.pdf2data.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\itext.pdfa.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\itext.sign.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\itext.styledxmlparser.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\itext.svg.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\LiveCharts.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\LiveCharts.WinForms.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\LiveCharts.Wpf.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\MetroFramework.Design.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\MetroFramework.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\MetroFramework.Fonts.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\Microsoft.Extensions.Options.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\Newtonsoft.Json.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\PdfiumViewer.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\System.Buffers.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\System.Memory.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\System.Numerics.Vectors.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\System.ValueTuple.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\zxing.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\zxing.presentation.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\BouncyCastle.Crypto.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\itext.barcodes.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\itext.commons.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\itext.font_asian.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\itext.forms.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\itext.io.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\itext.kernel.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\itext.layout.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\itext.licensing.base.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\itext.pdf2data.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\itext.pdfa.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\itext.sign.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\itext.styledxmlparser.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\itext.svg.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\LiveCharts.pdb
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\LiveCharts.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\LiveCharts.WinForms.pdb
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\LiveCharts.WinForms.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\LiveCharts.Wpf.pdb
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\LiveCharts.Wpf.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\Microsoft.Extensions.Options.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\Newtonsoft.Json.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\PdfiumViewer.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\System.Buffers.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\System.Memory.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\System.Numerics.Vectors.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\System.ValueTuple.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\zxing.pdb
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\zxing.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\zxing.presentation.pdb
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\zxing.presentation.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\bin\Debug\nl\PdfiumViewer.resources.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).5\obj\Debug\WindowsA.0BF81A2F.Up2Date
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\x64\pdfium.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\x86\pdfium.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\Database1.mdf
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\Database1_log.ldf
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\Sistem_gestao1.mdb.accdb
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\WindowsApp1.exe.config
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\WindowsApp1.exe
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\WindowsApp1.pdb
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\WindowsApp1.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\BouncyCastle.Crypto.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\FontAwesome.Sharp.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\itext.barcodes.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\itext.commons.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\itext.font_asian.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\itext.forms.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\itext.io.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\itext.kernel.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\itext.layout.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\itext.licensing.base.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\itext.pdf2data.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\itext.pdfa.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\itext.sign.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\itext.styledxmlparser.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\itext.svg.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\LiveCharts.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\LiveCharts.WinForms.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\LiveCharts.Wpf.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\MetroFramework.Design.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\MetroFramework.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\MetroFramework.Fonts.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\Microsoft.Extensions.Options.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\Newtonsoft.Json.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\PdfiumViewer.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\System.Buffers.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\System.Memory.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\System.Numerics.Vectors.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\System.ValueTuple.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\zxing.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\zxing.presentation.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\BouncyCastle.Crypto.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\itext.barcodes.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\itext.commons.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\itext.font_asian.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\itext.forms.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\itext.io.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\itext.kernel.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\itext.layout.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\itext.licensing.base.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\itext.pdf2data.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\itext.pdfa.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\itext.sign.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\itext.styledxmlparser.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\itext.svg.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\LiveCharts.pdb
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\LiveCharts.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\LiveCharts.WinForms.pdb
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\LiveCharts.WinForms.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\LiveCharts.Wpf.pdb
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\LiveCharts.Wpf.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\Microsoft.Extensions.Options.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\Newtonsoft.Json.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\PdfiumViewer.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\System.Buffers.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\System.Memory.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\System.Numerics.Vectors.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\System.ValueTuple.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\zxing.pdb
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\zxing.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\zxing.presentation.pdb
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\zxing.presentation.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\nl\PdfiumViewer.resources.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\obj\Debug\Interop.ADODB.dll
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\obj\Debug\WindowsApp1.vbproj.ResolveComReference.cache
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\obj\Debug\WindowsApp1.__.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\obj\Debug\WindowsApp1.CadastroFunc.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\obj\Debug\WindowsApp1.EditEstok.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\obj\Debug\WindowsApp1.EsqueciSenha.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\obj\Debug\WindowsApp1.FormOrdens.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\obj\Debug\WindowsApp1.FormProdutos.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\obj\Debug\WindowsApp1.btn_Fornecedor.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\obj\Debug\WindowsApp1.escrever.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\obj\Debug\WindowsApp1.Estoque.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\obj\Debug\WindowsApp1.Funcionarios.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\obj\Debug\WindowsApp1.Home.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\obj\Debug\WindowsApp1.Login.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\obj\Debug\WindowsApp1.Menu_admin.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\obj\Debug\WindowsApp1.Menu_func.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\obj\Debug\WindowsApp1.Resources.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\obj\Debug\WindowsApp1.Pedidos.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\obj\Debug\WindowsApp1.RegistrarFornecedor.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\obj\Debug\WindowsApp1.RegistrarVendas.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\obj\Debug\WindowsApp1.Registrar_estoque.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\obj\Debug\WindowsApp1.Relatorio.resources
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\obj\Debug\WindowsA.0BF81A2F.Up2Date
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\obj\Debug\WindowsApp1.exe
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\obj\Debug\WindowsApp1.xml
+D:\arquivos_rapidos\Sistema_Gestao(PRINICIPAL).Fixed\obj\Debug\WindowsApp1.pdb
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\x64\pdfium.dll
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\x86\pdfium.dll
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\Database1.mdf
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\Database1_log.ldf
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\Sistem_gestao1.mdb.accdb
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\WindowsApp1.exe.config
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\WindowsApp1.exe
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\WindowsApp1.pdb
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\WindowsApp1.xml
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\BouncyCastle.Crypto.dll
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\FontAwesome.Sharp.dll
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\itext.barcodes.dll
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\itext.commons.dll
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\itext.font_asian.dll
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\itext.forms.dll
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\itext.io.dll
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\itext.kernel.dll
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\itext.layout.dll
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\itext.licensing.base.dll
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\itext.pdf2data.dll
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\itext.pdfa.dll
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\itext.sign.dll
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\itext.styledxmlparser.dll
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\itext.svg.dll
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\LiveCharts.dll
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\LiveCharts.WinForms.dll
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\LiveCharts.Wpf.dll
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\MetroFramework.Design.dll
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\MetroFramework.dll
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\MetroFramework.Fonts.dll
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\Microsoft.Extensions.Options.dll
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\Newtonsoft.Json.dll
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\PdfiumViewer.dll
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\System.Buffers.dll
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\System.Memory.dll
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\System.Numerics.Vectors.dll
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\System.ValueTuple.dll
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\zxing.dll
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\zxing.presentation.dll
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\BouncyCastle.Crypto.xml
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\itext.barcodes.xml
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\itext.commons.xml
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\itext.font_asian.xml
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\itext.forms.xml
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\itext.io.xml
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\itext.kernel.xml
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\itext.layout.xml
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\itext.licensing.base.xml
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\itext.pdf2data.xml
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\itext.pdfa.xml
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\itext.sign.xml
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\itext.styledxmlparser.xml
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\itext.svg.xml
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\LiveCharts.pdb
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\LiveCharts.xml
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\LiveCharts.WinForms.pdb
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\LiveCharts.WinForms.xml
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\LiveCharts.Wpf.pdb
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\LiveCharts.Wpf.xml
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\Microsoft.Extensions.Options.xml
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\Newtonsoft.Json.xml
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\PdfiumViewer.xml
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\System.Buffers.xml
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\System.Memory.xml
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\System.Numerics.Vectors.xml
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\System.ValueTuple.xml
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\zxing.pdb
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\zxing.xml
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\zxing.presentation.pdb
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\zxing.presentation.xml
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\bin\Debug\nl\PdfiumViewer.resources.dll
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\obj\Debug\Interop.ADODB.dll
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\obj\Debug\WindowsApp1.vbproj.ResolveComReference.cache
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\obj\Debug\WindowsApp1.__.resources
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\obj\Debug\WindowsApp1.CadastroFunc.resources
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\obj\Debug\WindowsApp1.EditEstok.resources
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\obj\Debug\WindowsApp1.EsqueciSenha.resources
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\obj\Debug\WindowsApp1.FormOrdens.resources
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\obj\Debug\WindowsApp1.FormProdutos.resources
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\obj\Debug\WindowsApp1.btn_Fornecedor.resources
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\obj\Debug\WindowsApp1.escrever.resources
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\obj\Debug\WindowsApp1.Estoque.resources
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\obj\Debug\WindowsApp1.Funcionarios.resources
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\obj\Debug\WindowsApp1.Home.resources
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\obj\Debug\WindowsApp1.Login.resources
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\obj\Debug\WindowsApp1.Menu_admin.resources
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\obj\Debug\WindowsApp1.Menu_func.resources
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\obj\Debug\WindowsApp1.Resources.resources
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\obj\Debug\WindowsApp1.Pedidos.resources
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\obj\Debug\WindowsApp1.RegistrarFornecedor.resources
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\obj\Debug\WindowsApp1.RegistrarVendas.resources
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\obj\Debug\WindowsApp1.Registrar_estoque.resources
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\obj\Debug\WindowsApp1.Relatorio.resources
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\obj\Debug\WindowsA.0BF81A2F.Up2Date
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\obj\Debug\WindowsApp1.exe
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\obj\Debug\WindowsApp1.xml
+E:\Humberto\Sistema_Gestao(PRINICIPAL).Fixed\obj\Debug\WindowsApp1.pdb

@@ -1,0 +1,3 @@
+﻿INSERT INTO login (Email, Senha) VALUES ('MOQUIDEZIA', '123FATEC');
+
+SELECT * FROM Login

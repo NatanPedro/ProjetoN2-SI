@@ -1,0 +1,1 @@
+﻿INSERT INTO tb_login(Usuario, Senha) VALUES('mokidezia', 'Fatec123')
